@@ -1,6 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yo!%20I'm%20Ranga&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-
-<h1 align="center">Yo! 👋, Aku Ranga</h1>
 <h3 align="center">Seorang mahasiswa semester 3 di Universitas Negeri Medan </h3>
 
 <p align="center">

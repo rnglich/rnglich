@@ -1,6 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.xyz/badge?page_id=rnglich.rnglich" />
-
-<h1 align="center">Yo! 👋, I'm Ranga</h1>
+<h1 align="center">Yo! 👋, Aku Ranga</h1>
 <h3 align="center">Seorang mahasiswa semester 3 di Universitas Negeri Medan</h3>
 
 <p align="center">
@@ -9,7 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rnglich&label=Profile%20views&color=0e75b6&style=flat" alt="rnglich" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rnglich&theme=tokyonight" alt="rnglich" /></a> </p>
+<!-- Trophy dihapus sementara: layanan resmi github-profile-trophy.vercel.app sedang mati (402 DEPLOYMENT_DISABLED).
+     Kalau mau pasang lagi, pakai salah satu mirror load-balancing ini atau self-host:
+     https://github-profile-trophy-liard-delta.vercel.app/?username=rnglich&theme=tokyonight
+-->
 
 * 💬 Ask me about **Everything**
 
@@ -41,9 +42,7 @@
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com?user=rnglich&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" alt="rnglich" /></p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rnglich&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-</p>
+<!-- Activity graph dihapus sementara: github-readme-activity-graph.vercel.app sedang 402 juga -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />

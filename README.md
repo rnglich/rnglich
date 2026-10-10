@@ -9,8 +9,6 @@
 
 ### 👀 Pengunjung Profil
 
-> Setiap ada yang buka profil ini, angka di bawah otomatis nambah. Coba refresh!
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rnglich&label=Pengunjung+Profil&color=ff69b4&style=for-the-badge" alt="pengunjung profil" />
 </p>
